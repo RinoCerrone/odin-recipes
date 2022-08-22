@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: #0c1702;
+    font-family: Helvetica,sans-serif;
+    margin-bottom: 1.2em;
+}
+body {
+    background-color: rgb(210, 231, 175);
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+a {
+    text-decoration: none;
+    font-family: Helvetica,sans-serif;
+    font-size: 24px;
+    color:#172906;
+    
+}
+span {
+    letter-spacing: 1px;
+}
+li {
+    text-align: center;
+}
